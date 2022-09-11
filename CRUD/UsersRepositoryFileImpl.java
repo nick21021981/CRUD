@@ -8,7 +8,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 
-public class UsersRepositoryFileImpl {
+public class UsersRepositoryFileImpl  {
 Scanner scanner = new Scanner(System.in);
     ArrayList<User> users = new ArrayList<>();
     long sleep() {

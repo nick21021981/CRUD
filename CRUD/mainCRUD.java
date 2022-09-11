@@ -6,7 +6,7 @@ public class mainCRUD {
         UsersRepositoryFileImpl usersRepositoryFile = new UsersRepositoryFileImpl();
         usersRepositoryFile.init();
         Switch sw = new Switch();
-        while(true) {
+        while(true)  {
             sw.select();
            }
     }

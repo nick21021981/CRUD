@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Switch {
+public class Switch  {
     UsersRepositoryFileImpl usersRepositoryFile = new UsersRepositoryFileImpl();
     private User user;
     Scanner scanner = new Scanner(System.in);

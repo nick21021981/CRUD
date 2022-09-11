@@ -2,7 +2,7 @@ package CRUD;
 
 import java.util.Date;
 
-public class User {
+public class User  {
     private long ID;
     private String name;
     private String lastName;
